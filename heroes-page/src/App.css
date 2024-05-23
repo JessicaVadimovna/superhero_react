@@ -1,0 +1,12 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+}
+
+.hero-page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+

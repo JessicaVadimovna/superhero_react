@@ -1,0 +1,35 @@
+/* src/components/HeroCard.css */
+
+.hero-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .hero-image {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .hero-name {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+  }
+  
+  .hero-stats {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .hero-stats li {
+    margin: 0.5em 0;
+  }
+  
+  .hero-description {
+    font-size: 1em;
+    margin-top: 1em;
+  }
+  
